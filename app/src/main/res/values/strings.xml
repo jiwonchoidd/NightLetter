@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">밤편지</string>
+    <string name="app_story">16102402 박민수 16100445 최지원\n밤편지 어플은 단순한
+        일기장이 아니라 미래의 나에게 현재, 과거의 추억들을 담아두기 위해 만들어진 감성적인 일기장입니다.
+        남서울대학교 멀티미디어학과 모바일 프로그래밍1 강의 기말과제 프로젝트로서 제작되었습니다.</string>
+    <string name="app_hello">당신의 이름을 입력하세요.</string>
+    <string name="box_content">대략적인 내용</string>
+    <string name="box_date">날짜</string>
+    <string name="menu_write">편지작성</string>
+    <string name="menu_box">사서함</string>
+
+</resources>
